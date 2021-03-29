@@ -7,7 +7,7 @@
   Querying remote GraphQL with Apollo in Gatsby
 </h1>
 
-## 🚀 Quick start
+## Quick start
 
 1.  **Create a Gatsby site.**
 
