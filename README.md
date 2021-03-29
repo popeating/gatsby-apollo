@@ -7,8 +7,6 @@
   Querying remote GraphQL with Apollo in Gatsby
 </h1>
 
-## Quick start
-
 1.  **Create a Gatsby site.**
 
     Use the Gatsby CLI to create a new site, specifying the minimal starter.
