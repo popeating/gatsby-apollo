@@ -10,6 +10,6 @@
 **Basic project that will show how to include remote GraphQL data in static Gatsby pages.**
 
    Follow the tutorial on Medium.
-   [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+   [Tutorial](https://popeating.medium.com/how-to-query-remote-graphql-data-with-apollo-in-gatsby-d199a3e618d0)
 
    
